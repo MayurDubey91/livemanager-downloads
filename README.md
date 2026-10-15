@@ -7,7 +7,7 @@ This repository holds downloads only (no source code).
 
 ## Install (Windows, recommended)
 
-1. Install [Visual Studio Code](https://code.visualstudio.com/) (1.85 or newer) if you don't have it.
+1. Install [Visual Studio Code](https://code.visualstudio.com/) (1.106 or newer) if you don't have it.
 2. Download `LiveManager-Setup-<version>.exe` from the latest release.
 3. Run it. It installs per user (no admin needed) and adds the extension to VS Code.
    - **Windows SmartScreen** may say "Windows protected your PC" because the installer isn't code-signed.
